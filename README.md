@@ -15,5 +15,6 @@
 | [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://arxiv.org/pdf/2101.11986) | arXiv | 2021 | Structurize image by Tokens-To-Token | [PyTorch](https://github.com/lucidrains/vit-pytorch) |
 | [TransGAN: Two Transformers Can Make One Strong GAN](https://arxiv.org/pdf/2102.07074) | arXiv | 2021 | Apply ViT in GAN | [Official](https://github.com/VITA-Group/TransGAN)
 | [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions](https://arxiv.org/pdf/2102.12122) | arXiv | 2021 | Apply pyramid in ViT | [Official](https://github.com/whai362/PVT) |
+| [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364) | CVPR | 2021 | Develop a pre-trained model for low-level CV task | |
 | ***Reinforcement Learning*** |
 | [Learning to Paint With Model-based Deep Reinforcement Learning](https://arxiv.org/pdf/1903.04411) | ICCV | 2019 | Teach machines to paint like human painters | [Official](https://github.com/megvii-research/ICCV2019-LearningToPaint) |
