@@ -8,6 +8,9 @@
 
 | Paper | Publication | Year | Contribution | Code |
 | :- | :-: | :-: | :- | :-: |
+| ***Augmentation*** |
+| [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/pdf/1902.09383) | CVPR | 2019 | Present an automated data augmentation method for synthesizing labeled medical images by a spatial deformation field and an intensity change. | [Official](https://github.com/xamyzhao/brainstorm) |
+| [TorchIO: a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of medical images in deep learning](https://arxiv.org/pdf/2003.04696) | arXiv | 2020 | TorchIO is a Python package containing intensity and spatial transforms for data augmentation and preprocessing. | [Official](https://github.com/fepegar/torchio) |
 | ***Network Architecture*** |
 | [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/pdf/2101.03697) | CVPR | 2021 | Decouple the training-time and inference-time architecture of VGG | [Official](https://github.com/megvii-model/RepVGG) [PyTorch](https://github.com/DingXiaoH/RepVGG) |
 | ***Representation Learning*** |
